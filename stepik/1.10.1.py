@@ -10,6 +10,7 @@
 
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 =======
 This is pyfix2
 <<<<<<< HEAD
@@ -17,6 +18,9 @@ This is pyfix2
 =======
 >>>>>>> pyfix2
 ########
+=======
+#############
+>>>>>>> iss
 
 a, b, c=int(input()),int(input()),int(input())
 if a<=c<=b:
